@@ -1,0 +1,21 @@
+<div class="item-display" data-item-id="{{system._id}}">
+  {{#iff (defaultImage system.img) '!=' true}}
+    <img class="item-image" src="{{system.img}}" />
+  {{/iff}}
+  <h2 class="item-name">{{system.name}}</h2>
+  <div class="item-details">
+    {{{ffgDiceSymbols system.system.description}}}
+    <div class="item-properties">
+      {{#each system.powerUpgrades}}
+      <span class="tag">
+        <div class="ffg-sendtochat hover">
+          {{{this.name}}} {{this.rank}}
+          <div class="tooltip2">
+            {{{ffgDiceSymbols this.description}}}
+          </div>
+        </div>
+      </span>
+      {{/each}}
+    </div>
+  </div>
+</div>
