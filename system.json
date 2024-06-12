@@ -418,7 +418,7 @@
   "primaryTokenAttribute": "wounds",
   "secondaryTokenAttribute": "strain",
   "url": "https://github.com/jediMyers/Ninefold",
-  "manifest": "https://github.com/jediMyers/Ninefold/blob/main/system.json",
-  "download": "https://github.com/jediMyers/Ninefold/blob/main/ninefoldzip.zip",
+  "manifest": "https://cdn.discordapp.com/attachments/867935432569151488/1250576856605003867/system.json?ex=666b71f5&is=666a2075&hm=732959378538ae19c92b1546d100a9745a22f2f12909de9cedfd8a767d55eca9&",
+  "download": "https://github.com/jediMyers/Ninefold/raw/main/ninefoldzip.zip",
   "license": "LICENSE.txt"
 }
