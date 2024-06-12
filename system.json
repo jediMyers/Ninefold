@@ -24,7 +24,7 @@
       "label": "Armor",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -37,7 +37,7 @@
       "label": "Careers",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -50,7 +50,7 @@
       "label": "Force Powers",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -63,7 +63,7 @@
       "label": "Gear",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -76,7 +76,7 @@
       "label": "Signature Abilities",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -89,7 +89,7 @@
       "label": "Skill Descriptions",
       "banner": "ui/banners/journalentry-banner.webp",
       "type": "JournalEntry",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -102,7 +102,7 @@
       "label": "Specializations",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -115,7 +115,7 @@
       "label": "Species",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -128,7 +128,7 @@
       "label": "Talents",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -141,7 +141,7 @@
       "label": "Vehicles - Planetary",
       "banner": "ui/banners/actor-banner.webp",
       "type": "Actor",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -154,7 +154,7 @@
       "label": "Vehicles - Space",
       "banner": "ui/banners/actor-banner.webp",
       "type": "Actor",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -167,7 +167,7 @@
       "label": "Vehicles - Weapons",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -180,7 +180,7 @@
       "label": "Weapons",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -193,7 +193,7 @@
       "label": "Armor Attachments",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -206,7 +206,7 @@
       "label": "Weapon Attachments",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -219,7 +219,7 @@
       "label": "Vehicle Attachments",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -232,7 +232,7 @@
       "label": "Generic Attachments",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -245,7 +245,7 @@
       "label": "Vehicle Mods",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -258,7 +258,7 @@
       "label": "Armor Mods",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -271,7 +271,7 @@
       "label": "Weapon Mods",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -284,7 +284,7 @@
       "label": "Generic Mods",
       "banner": "ui/banners/item-banner.webp",
       "type": "Item",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
@@ -297,7 +297,7 @@
       "label": "Star Wars Adversaries",
       "banner": "ui/banners/actor-banner.webp",
       "type": "Actor",
-      "system": "starwarsffg",
+      "system": "ninefoldffg",
       "ownership": {
         "GAMEMASTER": "OWNER",
         "TRUSTED": "OWNER",
